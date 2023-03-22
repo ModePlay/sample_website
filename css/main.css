@@ -1,6 +1,37 @@
+.image-link {
+    text-decoration: none;
+  }
 .nav-menu {
     text-align: right;
   }
   .nav-spacing {
-    margin: 0 0 0 10px;
+    margin: 0 0 0 10px;  
+  }
+  .nav-color {
+    text-decoration: none; color: #0925d9;
+  }
+  .image-float {
+    float: left; margin: 0px 40px 0px 0px;
+  }
+  .mobypage-quote {
+    font-style: italic; font-size: 20px;
+  }
+  .span-styling {
+    font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000;
+  }
+  .spotlight {
+    width: 500px; margin: 20px auto; padding: 30px;
+background-color: #fafafa;
+  }
+  .image-center {
+    display: block; margin: 0 auto;
+  }
+  .heading {
+    text-align: center; margin: 0 0 80px;
+  }
+  .data-padding {
+    padding: 10px;
+  }
+  .indexpage-quote {
+    padding: 2px 20px; background: #cccc;
   }
